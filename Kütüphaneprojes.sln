@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kütüphane Projesi", "Kütüphaneprojesi\Kütüphane Projesi.csproj", "{516D5F4B-5FE4-416B-AA7C-6404048D5FF8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KutuphaneOtomasyonu", "KutuphaneOtomasyonu\KutuphaneOtomasyonu.vdproj", "{41FD70F2-9E5F-4D57-8EFB-D622AB6E8ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516D5F4B-5FE4-416B-AA7C-6404048D5FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D5F4B-5FE4-416B-AA7C-6404048D5FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D5F4B-5FE4-416B-AA7C-6404048D5FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D5F4B-5FE4-416B-AA7C-6404048D5FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FD70F2-9E5F-4D57-8EFB-D622AB6E8ED7}.Debug|Any CPU.ActiveCfg = Debug
+		{41FD70F2-9E5F-4D57-8EFB-D622AB6E8ED7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {619CFFC3-C880-443D-80AF-E55DE1C4803F}
+	EndGlobalSection
+EndGlobal
